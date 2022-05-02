@@ -36,7 +36,7 @@ When interested in contrubuting to FFXIV Teamcraft, start by Forking main reposi
 
 Then, clone the repository on your local machine via the HTTPS link that is displayed after clicking the green `Code` button on your local repository.
 
-After the repository has been cloned, create a new branch via the Git command `git branch <branchname> using the format described below. 
+After the repository has been cloned, create a new branch via the Git command `git branch <branchname>` using the format described below. 
 
 Finally, checkout your new branch using the command `git checkout <branchname>`
 
