@@ -32,6 +32,8 @@ Simply run `yarn start` to start a live server with file watcher.
 
 ### Getting Started
 
+When getting started with open source, it's important to note that new features and bug fixes are developed on new branches, which for this project follow a specific naming convention,  instead of contributing straight to the main/master branch. Setting this up can be accomplished in a few short steps. 
+
 When interested in contrubuting to FFXIV Teamcraft, start by Forking main repository via tha `Fork` button on the Github homepage. 
 
 Then, clone the repository on your local machine via the HTTPS link that is displayed after clicking the green `Code` button on your local repository.
