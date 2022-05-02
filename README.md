@@ -5,7 +5,9 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ffxiv-teamcraft/ffxiv-teamcraft.svg)](https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/pulls)
 [![Discord](https://img.shields.io/discord/355013337748209665.svg)](https://discord.gg/r6qxt6P)
 
-Collaborative crafting tool for Final Fantasy XIV
+Collaborative crafting tool for Final Fantasy XIV:
+
+FFXIV Teamcraft is a collaborative tool for Final Fantasy XIV, a MMORPG video game with an extensive and complicated crafting and gathering system. The software is designed to help players track crafting projects and collaborate with others.
 
 https://ffxivteamcraft.com
 
